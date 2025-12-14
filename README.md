@@ -1,4 +1,6 @@
-# MultiVideoMetricsTracker
+# Video Metrics Tracker (User Behavior)
+
+Track User interaction/behavior while viewing a video.
 
 A modern JavaScript ES6+ class for **tracking multiple HTML5 videos** on any page.  
 Provides rich video engagement metrics (seek counts, watch time, unique seconds viewed, fullscreen events, etc) for each tracked video, and dispatches a **custom event with current metrics every N seconds**.
